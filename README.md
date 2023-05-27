@@ -8,7 +8,7 @@ The purpose of this repo is to monitor changes made in the Python Notebooks and 
 
 The 2 notebooks have similar structure, the Business_Report contains discussions about the analysis and Development_Notebook contains the methods on how the code was produced.
 To run the notebook, please follow the "Program Initialisation" section of each notebook.
-<br>
+<br><br>
 Ensure the following is done:
 * Obtained the dataset from a source and uploaded to the Colab Notebook
 * Imported the packages
