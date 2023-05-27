@@ -11,13 +11,10 @@ The purpose of this repo is to monitor changes made in the Python Notebooks and 
 1. Go to [Google Colab](https://colab.research.google.com/)
 2. Click on `File` > `Open notebook`
 3. Upload the notebook obtained from this repo
-4. Follow below
+4. Ensure the following for each notebook are done:
+    * Downloaded the dataset/database from one of the three sources and uploaded to the Notebook
+    * Imported the packages
+    * Connected to the database
+    * Ran the functions "query_db()"
 
-The 2 notebooks have similar structure, the Business_Report contains discussions about the analysis and Development_Notebook contains the methods on how the code was produced.
-To run the notebook, please follow the "Program Initialisation" section of each notebook.
-<br><br>
-Ensure the following is done:
-* Obtained the dataset from a source and uploaded to the Colab Notebook
-* Imported the packages
-* Connected to the database
-* Ran the functions "query_db()"
+More info about how each notebooks should run is inside each notebook, specifically in the section "Program Initialisation"
