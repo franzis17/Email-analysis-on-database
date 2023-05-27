@@ -6,6 +6,13 @@ The purpose of this repo is to monitor changes made in the Python Notebooks and 
 
 ## <b>How to run the 2 notebooks</b>
 
+<b> Use Google Colab to open the notebooks </b>
+
+1. Go to [Google Colab](https://colab.research.google.com/)
+2. Click on `File` > `Open notebook`
+3. Click on the `GitHub` tab
+4. Enter the URL of this repository
+
 The 2 notebooks have similar structure, the Business_Report contains discussions about the analysis and Development_Notebook contains the methods on how the code was produced.
 To run the notebook, please follow the "Program Initialisation" section of each notebook.
 <br><br>
